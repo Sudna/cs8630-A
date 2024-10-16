@@ -1,0 +1,11 @@
+Title: The photoluminescence excitation and emission matrix (EEM) of Cs3Cu2I5 perovskite
+
+Description: The EEM photoluminescence spectrum is a three-dimensional spectrum that provides information about the photoluminescent properties of a material in the form of a two-dimensional plot. The x-axis represents the emission wavelength, the y-axis represents the excitation wavelength, and the color intensity in the 2D plot indicates the intensity of the emitted light. The EEM of Cs₃Cu₂I₅ shows the strongest excitation band at excitation wavelengths between 280 and 320 nm, with the corresponding strongest emission peak wavelength ranging from 380 to 520 nm.
+
+visulization aim: From a visualization perspective, this contour plot effectively communicates the relationship between excitation and emission wavelengths through a smooth gradient of colors, making it easy to identify areas of high intensity (shown in red). The use of color gradients (blue to red) allows for quick interpretation of intensity distribution, highlighting the central "hotspot" where excitation and emission are most efficient. The contour lines add depth and clarity, enabling readers to visually trace intensity changes across the spectrum. The square aspect ratio and well-labeled axes ensure that the plot is easy to read and interpret, making it an ideal tool for visually analyzing spectral data.
+
+
+
+
+
+
